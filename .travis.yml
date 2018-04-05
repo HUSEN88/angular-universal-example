@@ -1,6 +1,6 @@
-language: node
-node: 
-  - 6.9.2
+language: node_js
+node_js: 
+  - "stable"
 
 before _script:
  - npm install 
